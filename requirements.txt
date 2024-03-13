@@ -1,5 +1,0 @@
-tensorflow~=1.14.0
-numpy~=1.19.2
-scipy~=1.2.1
-pyrosetta~=2020.10+release.46415fa
-pandas~=0.20.3
